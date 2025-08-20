@@ -10,3 +10,15 @@
 - [x] Synced controller, blade, and migration to use 'name' (not 'username').
 - [x] Confirmed registration now creates users in the database and redirects correctly.
 - [ ] Bug: Name does not register as full name
+
+## Login
+- [ ] Link /register for sign up
+- [ ] Fix logo
+
+## Questionaire
+- [ ] Fix bug
+    - Illuminate \ Foundation \ Bootstrap \ HandleExceptions: 124handleError
+
+## Results
+- [ ] Fix bugs
+    - Illuminate \ Foundation \ Bootstrap \ HandleExceptions: 8handleError
